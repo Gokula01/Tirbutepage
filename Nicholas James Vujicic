@@ -1,0 +1,76 @@
+<!DOCTYPE>
+<html lang="en">
+<head>
+<style>
+/* Styling the body element like body color and margin */
+body
+{
+background-color: violet;
+margin:10%;
+}
+/* styling the title and giving shadow to the title */
+#title
+{
+text-align: center;
+text-shadow: 15px 15px 15px white;
+font-size: 7vh;
+}
+/* Setting width and display type of image */
+img
+{
+display: inline-block;
+width: 30%;
+}
+/* Styling the content of the page like-padding,font-size,font color  etc.*/
+div#tribute-data
+{
+background-color: grey;
+            box-shadow: 35px 35px 35px black;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 60px;
+        }
+  
+        /* Styling the title of the content */
+        h1.title-Nicholas James Vujicic {
+            font-size: 30px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+        }
+
+    </style>
+</head>
+  
+<body>
+    <main id="main">
+  <!-- Title of the page -->
+        <h1 id="title">
+            Nicholas James Vujicic
+        </h1>
+  
+        <div id="img">
+  
+            <!--Image of the Tribute Person-->
+            <img src="nick-vujicic.jpg" id="image" alt="Error Loading Image">
+        </div>
+<div id="tribute-data">
+<h1 class="title-vujicic">About Nicholas James Vujicic</h1>
+</h1>
+<ul>
+<li>
+                <strong>Nick Vujicic</strong> was born to Dushka and Boris Vujicic in 1982 in <strong>Melbourne, Australia</strong>. Although he was an otherwise healthy baby, Nick was born without arms and legs; he had no legs, but two small feet, one of which had two toes</li>
+<li><strong>Nicholas James Vujicic</strong> the eldest son of <strong>Dushka</strong> and <strong>Boris</strong> was born in <strong>Melbourne, Australia</strong>, on December 4, 1982.
+ The infant, though healthy in all other aspects, was born with autosomal recessive tetra-amelia, a rare condition where the child has no limbs at all, except feet with just two toes</li>
+<li>Initially, it was quite difficult for the child and his family to cope up with the troubles that accompany the absence of hands and legs.</li>
+<li> He wasn't even allowed to study in a normal school, even though there was nothing wrong with his IQ.
+He gradually learnt to use his feet to write, type, play, and shave.</li>
+He pursued his secondary education from the <strong>'Runcorn State High School'</strong>, Queensland, Australia, where he was also the head boy.
+ He was also on the student council that carried out humanitarian work.</li>
+<li>In 1990, <strong>Vujicic's</strong> determination and courage impressed the world, and he was felicitated with the <strong>'Australian Young Citizen Award'</strong>.</li>
+<li>He was one of the contenders for the <strong>'Young Australian of the Year Award'</strong> in the year 2005.</li>
+<li>In 2010, he won the <strong>'Best Actor in Short Film'</strong> award at the <strong>'Method Fest Independent Film Festival'</strong> for his performance in the role of Will, from the movie <strong>'The Butterfly Circus'</strong></li>
+</ul>
+</div>
+</main>
